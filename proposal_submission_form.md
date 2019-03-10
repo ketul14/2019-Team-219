@@ -1,28 +1,30 @@
 ### 2019 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: 2019  
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: WhiteWalkers   
   
 #### Your team’s hackathon idea in TWO sentences:
-##### `YOUR TWO SENTENCES HERE`
-##### `YOUR TWO SENTENCES HERE`  
+##### The purpose is to analyze the trends in non-communicable diseases in San Diego to provide solutions to mitigate the risk associated with them.  
   
 #### Dataset(s) your team might use for the project (Provide name and URL):
-- ##### `YOUR DATASETS HERE`
-- ##### `YOUR DATASETS  HERE`
+- ##### Link:https://www.sandiegocounty.gov/hhsa/programs/phs/community_epidemiology/epidemiology_statistics_and_reports.html
 
-#### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
+Dataset: “FINAL_NonCommunicable Workbook_2011-2016_Public Health Services Data” 
+
+- ##### Twitter
+
+#### Team Coordinator GitHub Username: ketul14 (https://github.com/ketul14)
 
 #### Team Members
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
 | -- | :------------------ |        :---:         |            :---:            |        :---:         |                  :---:                    |
-| 01 | Test Name           |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 02 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 03 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 04 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 05 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 06 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 01 | Adil Rahman         |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 02 | Deepika Siriah      |         [X]          |             [X]             |         [ ]          |                   [ ]                     |
+| 03 | Ketul Patel         |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 04 | Kunal Lalwani       |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 05 | Rashmi Sawant       |         [X]          |             [X]             |         [ ]          |                   [ ]                     |
+| 06 | Shraddha Masuti     |         [X]          |             [X]             |         [ ]          |                   [ ]                     |
 | 07 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 08 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 09 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
@@ -50,8 +52,8 @@
 - [ ] Your question:
 
 **Smart Health**
-- [ ] How can we share useful public health information and web analytical tools for improve public health in San Diego?
-- [ ] What chronic diseases affect San Diegans and how can these conditions be managed daily?
+- [X] How can we share useful public health information and web analytical tools for improve public health in San Diego?
+- [X] What chronic diseases affect San Diegans and how can these conditions be managed daily?
 - [ ] Your question:
 
 
